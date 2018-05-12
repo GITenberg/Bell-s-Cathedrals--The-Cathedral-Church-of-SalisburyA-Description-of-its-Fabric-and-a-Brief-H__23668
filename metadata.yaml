@@ -1,0 +1,35 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-SalisburyA-Description-of-its-Fabric-and-a-Brief-H__23668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Gleeson
+    aliases:
+    - White, J. W. G. (Joseph William Gleeson)
+    - White, Joseph Gleeson
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '25976'
+    url: http://www.gutenberg.org/2009/agents/25976
+    wikipedia: http://en.wikipedia.org/wiki/Gleeson_White
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Architecture
+gutenberg_issued: '2007-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salisbury Cathedral'
+- !lcc 'NA'
+title: 'Bell''s Cathedrals: The Cathedral Church of Salisbury
+
+  A Description of its Fabric and a Brief History of the See of Sarum'
+url: http://www.gutenberg.org/ebooks/23668
